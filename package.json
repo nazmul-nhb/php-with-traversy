@@ -1,0 +1,23 @@
+{
+  "name": "php-with-traversy",
+  "version": "1.0.1",
+  "description": "Learn PHP with Brad Traversy",
+  "main": "index.js",
+  "scripts": {
+    "commit": "nhb-commit"
+  },
+  "keywords": [
+    "php"
+  ],
+  "author": {
+    "name": "Nazmul Hassan",
+    "email": "nazmulnhb@gmail.com",
+    "url": "https://nazmul-nhb.dev"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@10.27.0",
+  "devDependencies": {
+    "nhb-scripts": "^1.9.2",
+    "nhb-toolbox": "^4.28.57"
+  }
+}

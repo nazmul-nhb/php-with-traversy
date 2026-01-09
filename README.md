@@ -1,2 +1,1 @@
-# php-with-traversy
-Learn PHP with Brad Traversy
+# Learn PHP with Brad Traversy
