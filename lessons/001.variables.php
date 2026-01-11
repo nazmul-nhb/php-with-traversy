@@ -12,7 +12,7 @@ $title = 'Variables'
 </head>
 
 <body>
-    Hello PHP
+    Hello PHP Variables
 </body>
 
 </html>
